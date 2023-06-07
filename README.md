@@ -1,6 +1,6 @@
 # ChatGPT-AutoHotkey-Utility
 
-## [✅ Download here](https://github.com/kdalanon/ChatGPT-AutoHotkey-Utility/releases/latest)
+[✅ Download here](https://github.com/kdalanon/ChatGPT-AutoHotkey-Utility/releases/latest)
 
 An AutoHotkey script that uses the ChatGPT API to process selected text.
 
@@ -60,9 +60,10 @@ Function_To_Execute_When_Selected(*) {
 
 You can change the activation hotkey under Hotkey. See [here](https://www.autohotkey.com/docs/v2/KeyList.htm) for the list of possible hotkeys.
 
-![image](https://github.com/kdalanon/ChatGPT-AutoHotkey-Utility/assets/123705491/4b7e3bdf-395b-4d42-8c17-1b0e6717a94b)
+![image](https://github.com/kdalanon/ChatGPT-AutoHotkey-Utility/assets/123705491/da257ab3-05d0-4779-87a2-0a2ba6270255)
 
 ## Credits
 
 - [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) library
 - [ai-tools-ahk](https://github.com/ecornell/ai-tools-ahk) for the inspiration
+- [Icons8](https://icons8.com/icon/kTuxVYRKeKEY/chatgpt) for the icon
